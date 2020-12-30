@@ -26,7 +26,7 @@ SECRET_KEY = 'h=(%m4$^6&d+dtjg)xzz53bd1xh&xdaf9zrdgalp4vl^j32x%v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','vivek-blog1.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','vivek-blog1.herokuapp.com']
 
 
 # Application definition
