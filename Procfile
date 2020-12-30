@@ -1,0 +1,1 @@
+web: gunicorn dp2.wsgi
