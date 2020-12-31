@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'h=(%m4$^6&d+dtjg)xzz53bd1xh&xdaf9zrdgalp4vl^j32x%v'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','vivek-blog1.herokuapp.com']
 
